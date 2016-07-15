@@ -1,5 +1,6 @@
 # NotificationUtils
 A Notification on iOS.
+###![alt tag](https://github.com/s9ya76/NotificationUtils/blob/master/Simulator%20Screen%20Shot.png)
 
 ## Notices
 The current version is working with Xcode Version 7. If you are using different Xcode version, please check out the previous releases.
