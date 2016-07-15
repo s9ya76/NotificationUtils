@@ -1,0 +1,10 @@
+framework module NotificationUtils {
+  umbrella header "NotificationUtils.h"
+
+  export *
+  module * { export * }
+}
+
+module NotificationUtils.Swift {
+    header "NotificationUtils-Swift.h"
+}
