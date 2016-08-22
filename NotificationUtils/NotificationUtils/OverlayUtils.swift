@@ -81,7 +81,7 @@ public extension UIViewController {
         if(self.view.viewWithTag(viewTag) == nil) {
             print("View with tag \(viewTag) not found.")
             self.view.viewWithTag(viewTag)
-            labelview.frame = CGRect(x: 0, y: 0, width: UIScreen.mainScreen().bounds.width, height: 45)
+            labelview.frame = CGRect(x: 0, y: 0, width: UIScreen.mainScreen().bounds.width, height: 70)
             labelview.alpha = 0.8
             labelview.backgroundColor = UIColor.blackColor()
             labelview.userInteractionEnabled = true
